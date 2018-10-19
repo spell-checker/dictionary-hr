@@ -1,0 +1,14 @@
+{
+	"name": "spell-checker/dictionary-hr",
+	"type": "library",
+	"description": "Croatian dictionary for spell-checker and PhpStorm/InteliJ",
+	"homepage": "https://github.com/spell-checker/dictionary-hr",
+	"license": ["0BSD"],
+	"authors": [
+		{
+			"name": "Vlasta Neubauer",
+			"homepage": "http://www.paranoiq.cz"
+		}
+	],
+	"require": {}
+}
